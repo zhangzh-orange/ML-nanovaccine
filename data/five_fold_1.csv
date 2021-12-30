@@ -1,0 +1,95 @@
+Cell_types,Trans_efficiency_class,Transfection_efficiency,Particle_size,Zeta_potential,Functional_modification,Simuli_response,tumor_cell,immune_cell,other_cell,catagory_1,catagory_2,catagory_3,catagory_4
+P53-null Hep3B liver cancer cells (tumor cell),3,0.9,125,2.6,0,1,1,0,0,1,0,0,0
+BMDCs (immune cell),3,0.8,155,0.03,0,0,0,1,0,1,0,0,0
+HepG2-Luc cells (tumor cell),2,0.55,170,13.8,0,0,1,0,0,1,0,0,0
+Huh 7.5.1-HCV cells (tumor cell),3,0.8,125.5,39.1,0,0,1,0,0,1,0,0,0
+HeLa cells (tumor cell),2,0.54,170.9,5.44,0,0,1,0,0,0,1,0,0
+ARPE-19 cells (other cell),3,0.85,261.7,23.1,0,0,0,0,1,1,0,0,0
+CT26 cells (tumor cell),1,0.02,115,30,0,0,1,0,0,0,1,0,0
+BHK cells (other cell),2,0.45,196,43,0,0,0,0,1,1,0,0,0
+HuH-7 cells (tumor cell),3,1,24.2,-24.6,0,0,1,0,0,0,1,0,0
+HeLa cells (tumor cell),3,0.72,225,-1.5,0,0,1,0,0,1,0,0,0
+T22 cells (tumor cell),2,0.5,250,40,0,0,1,0,0,0,0,1,0
+SKOV3 ovarian cancer cells (tumor cell),3,0.8,30.1,21.8,1,1,1,0,0,0,1,0,0
+ HepG2 cells (tumor cell),1,0.2,400,18,0,0,1,0,0,1,0,0,0
+HeLa cells (tumor cells),3,0.9,200,18,0,1,1,0,0,0,0,0,1
+DC2.4 cells (immune cell),1,0.05,237.8,34.8,1,0,0,1,0,0,1,0,0
+B16F10-luc cells (tumor cell),1,0.25,250,40,0,0,1,0,0,0,1,0,0
+SKOV-3 cells (tumor cell),2,0.5,85,32,0,0,1,0,0,0,1,0,0
+DC (immune cell),1,0.22,178,19,1,0,0,1,0,1,0,0,0
+U-118 MG cells (tumor cell),1,0.35,150,-12,0,0,1,0,0,0,0,0,1
+A3.01 cells (tumor cell),3,0.65,311.9,17.4,1,0,1,0,0,0,1,0,0
+DC (immune cell),2,0.4,137,17,0,0,0,1,0,1,0,0,0
+B16F10-luc cells (tumor cell),3,0.74,120,34,1,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),1,0.15,75,-0.88,0,0,1,0,0,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.75,160,3.5,0,0,1,0,0,1,0,0,0
+BHK-21 cells (other cell),1,0.06,315.4,-26.4,0,0,0,0,1,1,0,0,0
+PC3 cells (tumor cell),3,0.8,26.1,21.7,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),3,0.93,71.1,-1.5,0,0,1,0,0,1,0,0,0
+22Rv1-Luc cells (tumor cell),2,0.53,127,29.5,0,0,1,0,0,0,1,0,0
+ HepG2 cells (tumor cell),2,0.54,13.8,11.3,0,0,1,0,0,0,0,1,0
+Neuro-2A-Luc cells (tumor cell),1,0.15,84.5,46.2,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),2,0.5,22,-3,0,0,1,0,0,0,0,0,1
+U87-Luc cells (tumor cell),1,0.05,110,18,0,0,1,0,0,1,0,0,0
+MCF7-GFP cells (tumor cell),3,0.88,23,-12,0,1,1,0,0,0,0,0,1
+B16F10-luc cells (tumor cell),3,0.8,50,12,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),3,0.74,132.4,-1.5,0,0,1,0,0,1,0,0,0
+HeLa cells (tumor cell),1,0.05,100,25.85,0,0,1,0,0,1,0,0,0
+NIH 3T3-GFP cells (other cell),1,0.35,77.3,13.6,0,0,0,0,1,0,1,0,0
+Hela-GFP cells (tumor cell),3,0.7,210,38,0,0,1,0,0,1,0,0,0
+ HeLa cells (tumor cell),2,0.45,100.4,22,0,0,1,0,0,0,1,0,0
+CT26 cells (tumor cell),1,0.02,100,26,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),3,0.65,100,18,0,0,1,0,0,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.85,73,-1.5,0,0,1,0,0,1,0,0,0
+DU145-GFP cells (tumor cell),2,0.5,196,-5,1,1,1,0,0,0,0,0,1
+HeLa-Luc cells (tumor cell),3,0.8,88,5.8,0,0,1,0,0,1,0,0,0
+HT-1080 cells (tumor cell),3,0.8,150,-10.5,0,0,1,0,0,0,1,0,0
+Hela-GFP cells (tumor cell),2,0.55,200,38,0,0,1,0,0,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.6,171.1,-1.5,0,0,1,0,0,1,0,0,0
+Neuro-2A-Luc cells (tumor cell),3,0.6,59.6,42.5,0,0,1,0,0,0,1,0,0
+MDA-MB-231 cells (tumor cell),1,0.27,41.8,36.5,1,0,1,0,0,0,1,0,0
+Hela-GFP cells (tumor cell),2,0.5,200,-16.5,1,0,1,0,0,0,1,0,0
+HEK 293T cells (other cell),2,0.43,114,-28.2,0,0,0,0,1,0,0,0,1
+HCT116 cells (tumor cell),3,0.9,27,44.2,0,0,1,0,0,0,1,0,0
+MCF-7 cells (tumor cell),3,0.9,13,35,1,0,1,0,0,0,0,0,1
+ NIH 3T3-GFP cells (tumor cell),3,0.6,93,14.6,0,1,1,0,0,1,0,0,0
+U87-Luc cells (tumor cell),1,0.2,100,16,0,0,1,0,0,1,0,0,0
+Hela-GFP cells (tumor cell),2,0.5,500,0,0,0,1,0,0,0,1,0,0
+DCs (immune cell),3,0.71,77.5,14.3,0,0,0,1,0,0,1,0,0
+HeLa cells (tumor cell),3,0.65,120,20,0,1,1,0,0,0,1,0,0
+U-87 MG Cells (tumor cell),1,0.3,250,25,0,0,1,0,0,0,1,0,0
+HepG 2 cells (tumor cell),3,0.6,110,25,0,0,1,0,0,0,1,0,0
+HeLa cells (tumor cell),3,0.94,50,46.8,0,0,1,0,0,0,1,0,0
+HeLa cells (tumor cell),1,0,258,15,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),2,0.5,101,-1.56,0,1,1,0,0,1,0,0,0
+ HepG2 cells (tumor cell),2,0.4,400,15,0,0,1,0,0,1,0,0,0
+U87GBM cells (tumor cell),2,0.57,31,-6.5,0,0,1,0,0,0,0,0,1
+DC2.4 cells (immune cell),1,0.3,100,27.28,0,0,0,1,0,1,0,0,0
+HEK 293 cells (other cell),2,0.47,54.2,5.6,1,0,0,0,1,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.62,210,42,0,0,1,0,0,0,1,0,0
+NRK cells (other cell),3,0.9,200,1.5,1,0,0,0,1,0,0,0,1
+L929 cells (other cell),1,0.05,129,13,0,0,0,0,1,0,1,0,0
+Hela-GFP cells (tumor cell),2,0.55,210,38,0,0,1,0,0,1,0,0,0
+Hela-GFP cells (tumor cell),1,0.3,60,-40,0,1,1,0,0,1,0,0,0
+B16F10-luc cells (tumor cell),2,0.5,220,36,0,0,1,0,0,0,1,0,0
+mGFP5 Nb plant leaves cells (other cell),3,0.71,19.58,29.5,1,0,0,0,1,0,0,0,1
+MCF-7 cells (tumor cell),2,0.42,195,25.9,1,0,1,0,0,0,1,0,0
+PC-3 cells (tumor cell),3,0.6,30,17.5,1,0,1,0,0,0,1,0,0
+HeLa cells (tumor cells),3,0.77,63,47.8,0,0,1,0,0,0,0,0,1
+3T3 cells (other cell),1,0.3,137,17.6,0,0,0,0,1,0,1,0,0
+U87GBM cells (tumor cell),3,0.86,27,-8.5,1,0,1,0,0,0,0,0,1
+Vero cells (other cell),1,0.11,2,20,0,0,0,0,1,0,0,0,1
+U-87 MG Cells (tumor cell),3,0.84,420,25,0,0,1,0,0,0,1,0,0
+SK-HEP-1 cells (tumor cell),1,0.1,210,-18.4,0,0,1,0,0,1,0,0,0
+E.A.Hy926 cells (other cell),2,0.5,200,33,0,0,0,0,1,0,1,0,0
+HepG 2 cells (tumor cell),3,0.9,254,26,0,0,1,0,0,0,1,0,0
+K562 cells (tumor cell),3,0.85,243,-2.9,1,0,1,0,0,1,0,0,0
+HeLa cells (tumor cell),1,0.1,95,33.67,0,0,1,0,0,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.82,210,45,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),3,0.76,117.3,-1.5,0,0,1,0,0,1,0,0,0
+HeLa cells (tumor cell),3,0.95,50,15,0,0,1,0,0,0,1,0,0
+HeLa-Luc cells (tumor cell),3,0.79,95,-1.5,0,0,1,0,0,1,0,0,0
+A549-Luc cells (tumor cell),3,0.77,115,28.2,0,1,1,0,0,0,1,0,0
+SK-HEP-1-Luc cells (tumor cell),3,0.65,101,13.37,0,0,1,0,0,1,0,0,0
+HeLa-Luc cells (tumor cell),3,0.6,124,1.2,0,0,1,0,0,1,0,0,0
+ARPE-19 cells (other cell),2,0.4,233.7,25.4,0,0,0,0,1,1,0,0,0
